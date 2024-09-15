@@ -1,0 +1,37 @@
+a{
+    color: black;
+}
+.blue-text{ 
+    color: #A5B4FC;
+    font-style: normal;
+}
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3.5em;
+    color: #A5B4FC;
+}
+p{
+    font-family: "Manrope", sans-serif;
+    font-size: 1.1em;
+}
+ul{
+    font-family: "Manrope", sans-serif;
+    font-size: 1em;
+}
+a{
+    font-family: "Manrope", sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+}
+.link{
+    background-color: white;
+}
+body{
+    background-color:#1F2039 ;
+}
+.link-page{
+    color: #242424;
+}
+.text{
+    color: #F9F8FF;
+}
